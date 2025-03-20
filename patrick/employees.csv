@@ -1,0 +1,11 @@
+Name,Age,Salary,Department,Join_Date,Full_Time,Bonus
+Alice,25,50000.0,Engineering,2020-06-15,True,5000.5
+Bob,30,60000.5,Marketing,2018-09-23,False,4500.0
+Charlie,35,70000.0,Finance,2015-02-10,True,7000.75
+David,40,80000.2,HR,2012-11-30,True,6500.3
+Eve,28,55000.3,IT,2019-08-05,False,4800.2
+Frank,45,90000.8,Operations,2010-04-12,True,8000.0
+Grace,32,62000.9,Legal,2017-07-01,False,4200.1
+Hank,50,100000.0,Engineering,2008-01-20,True,9000.9
+Ivy,29,58000.6,Sales,2021-03-15,False,4700.4
+Jack,38,75000.5,Marketing,2014-12-25,True,7300.2
